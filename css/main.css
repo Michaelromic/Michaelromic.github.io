@@ -1129,7 +1129,7 @@ pre .javascript .function {
   display: inline-block;
   vertical-align: top;
   line-height: 36px;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: normal;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #73eb9f;
+  background: #ec7db0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3001,6 +3001,10 @@ body {
   src: url("/fonts/romic.ttf");
 }
 .site-title {
-  font-size: 40px !important;
-  font-family: 'romic' !important;
+  font-size: 30px !important;
+  font-family: 'romic';
+}
+.site-subtitle {
+  font-size: 20px !important;
+  font-family: 'romic';
 }
